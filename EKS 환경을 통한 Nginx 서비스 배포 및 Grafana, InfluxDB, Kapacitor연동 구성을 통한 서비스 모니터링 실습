@@ -1,0 +1,3 @@
+EKS 환경을 통한 Nginx 서비스 배포 및 Grafana, InfluxDB, Kapacitor연동 구성을 통한 서비스 모니터링 실습목차1. EKS 설치 구성 및 Nginx 서비스 배포
+2. Grafana, InfluxDB, Kapacitor연동 구성
+3. Jmeter를 통한 부하, 성능 검증
